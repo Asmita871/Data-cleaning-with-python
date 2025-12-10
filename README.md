@@ -7,7 +7,7 @@
 
 # 📁 Dataset Information
 
-## Your dataset contains columns like:
+## Dataset contains columns like:
 
 ### id
 
