@@ -61,6 +61,9 @@ Using Pandas (CSV).
 
 df.head()
 
+<img width="1783" height="597" alt="image" src="https://github.com/user-attachments/assets/c35b2bbe-b7f5-4b03-92d5-b85b133cad70" />
+
+
 df.info()
 
 df.describe()
