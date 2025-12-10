@@ -70,12 +70,18 @@ df.describe()
 
 Checking missing values
 
+<img width="479" height="632" alt="image" src="https://github.com/user-attachments/assets/2e627095-5168-4a9a-b3a1-a5ec4017fea5" />
+
+
 Checking column datatypes
 
 
 ## ✔ 3. Clean Missing Values
 
 Drop missing rows where important columns are empty
+
+<img width="415" height="618" alt="image" src="https://github.com/user-attachments/assets/bacbbe74-ea2f-458c-a372-38de7ab851a1" />
+
 
 Fill less important text values with “Not specified”
 
